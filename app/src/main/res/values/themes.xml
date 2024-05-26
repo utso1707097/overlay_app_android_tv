@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Interspeed_overlay_application" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
